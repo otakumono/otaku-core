@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "node-xport": ">= 0.2.0",
+    "validator": "^3.36.0",
     "mongoose": "^3.8.12"
   },
   "devDependencies": {
