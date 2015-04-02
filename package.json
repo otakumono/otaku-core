@@ -39,8 +39,7 @@
   "dependencies": {
     "node-xport": ">= 0.2.0",
     "validator": "^3.36.0",
-    "mongoose": "~4.0.1",
-    "mongoose-auto-increment": "~4.0.0"
+    "mongoose": "~4.0.1"
   },
   "devDependencies": {
     "debug": "~0.7.2",
