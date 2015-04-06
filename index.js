@@ -1,5 +1,5 @@
 var xport = require('node-xport')(module),
-	OtakuCore = require('./lib/');
+    OtakuCore = require('./lib/');
 
 /* Export the module */
 xport(OtakuCore);
